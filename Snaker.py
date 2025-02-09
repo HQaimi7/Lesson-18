@@ -10,7 +10,7 @@ BLACK = (0, 0, 0)
 RED = (255, 0, 0) #Food colour
 GREEN = (0, 255, 0) #Snake colour
 BLUE = (0, 0, 255) #Background colour
-GRAY = (128, 128, 128) #F=Gray for the border/other UI elements
+GRAY = (128, 128, 128) #Gray for the border/other UI elements
 
 #Screen dimensions
 width = 600
