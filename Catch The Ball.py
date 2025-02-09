@@ -7,7 +7,7 @@ pygame.init()
 #Screen Dimensions
 WIDTH, HEIGHT = 800, 600
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Ping Pong Game")
+pygame.display.set_caption("Catch The Ball Game")
 
 #Colors
 WHITE = (255, 255, 255)
